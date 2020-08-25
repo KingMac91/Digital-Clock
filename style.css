@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+body{
+    font-weight: 700;
+    font-size: 30px;
+    background: #F8EFBA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:10%;
+}
+.title{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+.clock{
+    font-size: 50px;
+}
+span{
+    background: #EAB543;
+    padding: 30px;
+    color: #fff;
+}
